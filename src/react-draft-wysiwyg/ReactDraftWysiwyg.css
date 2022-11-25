@@ -1,0 +1,39 @@
+.demo-toolbar,
+.demo-editor {
+  border: 0.1rem solid #e6e6e6;
+}
+
+.demo-wrapper {
+  margin: 2rem;
+}
+
+.demo-toolbar {
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+.save-draft {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  padding: 1rem;
+}
+
+.controlDraftModes {
+  display: grid;
+  grid-auto-columns: max-content;
+  grid-auto-flow: column;
+  grid-column-gap: 1rem;
+  margin: 2rem;
+  font-size: 2rem;
+}
+
+.controlDraftModes > label {
+  margin-right: 2rem;
+}
+
+.demo-toolbar-image .rdw-image-modal-upload-option-label {
+  display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

@@ -27,19 +27,3 @@ body {
   overflow: overlay;
   background-color: #ffffff;
 }
-
-/* ///////////////////////////////////////// */
-
-.demo-toolbar,
-.demo-editor {
-  border: 0.1rem solid #e6e6e6;
-}
-
-.demo-wrapper {
-  margin: 2rem;
-}
-
-.demo-toolbar {
-  padding: 0;
-  margin-bottom: 2rem;
-}
